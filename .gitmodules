@@ -1,0 +1,15 @@
+[submodule "themes/hello-friend"]
+	path = themes/hello-friend
+	url = https://github.com/panr/hugo-theme-hello-friend
+[submodule "themes/aether"]
+	path = themes/aether
+	url = https://github.com/josephhutch/aether
+[submodule "themes/simple-cv"]
+	path = themes/simple-cv
+	url = https://github.com/hootan09/simple-cv
+[submodule "themes/coder"]
+	path = themes/coder
+	url = https://github.com/luizdepra/hugo-coder
+[submodule "themes/loveit"]
+	path = themes/loveit
+	url = https://github.com/dillonzq/LoveIt
