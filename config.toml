@@ -1,6 +1,6 @@
 baseURL = "https://banmanh482.github.io/myblog/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Blog of Manh Ban"
 theme = "loveit"
 [module]
   [module.hugoVersion]
