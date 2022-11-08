@@ -1,6 +1,6 @@
 baseURL = "https://banmanh482.github.io/myblog/"
 #baseURL = "https://example.com"
-title   = "ManhBan"
+title   = "Manh Ban"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 

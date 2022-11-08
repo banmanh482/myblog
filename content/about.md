@@ -1,5 +1,5 @@
 +++
-title = "About me"
+title = "About Manh Ban"
 date = "2014-04-09"
 aliases = ["about-us","about-hugo","contact"]
 [ author ]
