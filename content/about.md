@@ -8,6 +8,6 @@ aliases = ["about-us","about-hugo","contact"]
 
 Hi! I am a DevOps Engineer!
 
-This is a blog about me and my wolrd <3
+This is a blog about me and my cats <3
 
-Wish you all have a nice day.
+Have a nice day!
