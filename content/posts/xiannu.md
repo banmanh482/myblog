@@ -8,7 +8,7 @@ tags:
   - 2-silly-cats
 ---
 
-Chū yú mǒu zhǒng yuányīn, zhège xiānnǚ hěn shāngxīn :<
+lmao
 
 ![XianNu](/posts/cats/xiannu.png)
 
