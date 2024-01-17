@@ -9,8 +9,7 @@ tags:
 ---
 
 lmao
-
-![XianNu](/posts/cats/xiannu.png)
+lmao 2
 
 Wǒ bù zhīdào gāi zěnme zuò cáinéng ràng tā gǎnjué hǎoxiē.
 
