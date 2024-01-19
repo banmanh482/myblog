@@ -11,8 +11,6 @@ tags:
 lmao
 lmao 2
 
-Wǒ bù zhīdào gāi zěnme zuò cáinéng ràng tā gǎnjué hǎoxiē.
-
 ![xin loi](/posts/cats/xinloi.png)
 
 Suǒyǐ wǒ xiě zhè piān bówén xīwàng tā néng bǎochí kāilǎng hé zìxìn.
